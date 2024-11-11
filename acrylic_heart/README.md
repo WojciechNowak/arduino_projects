@@ -1,0 +1,1 @@
+Simple code to run on an Arduino capable of dimming and brightening LED strips.
